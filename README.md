@@ -11,3 +11,7 @@ In this project, a dataset of handwritten characters and digits has been gathere
 Author
 -------
 Farnaz Kashefi ([@Farnazkash](https://github.com/Farnazkash))
+
+License
+-------
+This project is licensed under the [MIT License](https://github.com/Farnazkash/Persian_Handwriting_Recognition/blob/master/LICENSE)
