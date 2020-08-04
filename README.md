@@ -1,5 +1,5 @@
 # Persian_Handwriting_Recognition
-Final Project CV course Spring 2020 at K. N. Toosi
+Final Project Computer Vision course Spring 2020 at K. N. Toosi
 
 *   Input : A form containing ID, Firstname, Lastname and Degree of the form filler.
 
